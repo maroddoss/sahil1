@@ -1,1 +1,1 @@
-python3 sahil.py
+pip install --upgrade pip
