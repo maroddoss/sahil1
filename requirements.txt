@@ -1,4 +1,2 @@
-./install.sh
-./bgmi
 pip install telebot
 python3 sahil.py
