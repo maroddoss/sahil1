@@ -1,6 +1,4 @@
-chmod +x *
 ./install.sh
-chmod +x *
 ./bgmi
 pip install telebot
 python3 sahil.py
